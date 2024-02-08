@@ -17,7 +17,7 @@ target/
 
 ### MVN ###
 .mvn/
-mvmw.cmd
+mvnw.cmd
 mvnw
 
 ### DOCKER ###
